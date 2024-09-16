@@ -12,3 +12,9 @@ Improved Tooling:TypeScript enhances development tools and environments by provi
 Improved Maintainability:TypeScript’s strong typing and structured approach make codebases easier to manage over time.
 
 Backwards Compatibility:TypeScript is a superset of JavaScript, meaning that any valid JavaScript code is also valid TypeScript code.
+
+Install and Configure TypeScript 
+
+Resource: https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/
+Resource: https://www.youtube.com/watch?v=d56mG7DezGs&ab_channel=ProgrammingwithMosh
+
