@@ -1,6 +1,6 @@
 Introduction To TypeScript
 
-![Introdaction To TypeScript]([https://imgur.com/a/PHMN1FX](https://imgur.com/a/introduction-to-typescript-PHMN1FX))
+![Introdaction To TypeScript](https://files.fm/u/9u6xx4a4tr)
 TypeScript is a statically-typed programming language that is a superset of JavaScript. It was developed and is maintained by Microsoft. TypeScript was created to address the challenges of building large-scale JavaScript applications and adds optional type annotations, classes, interfaces, and other features to the language.
 
 The main benefits of using TypeScript include:
