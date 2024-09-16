@@ -16,5 +16,6 @@ Backwards Compatibility:TypeScript is a superset of JavaScript, meaning that any
 Install and Configure TypeScript 
 
 Resource: https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/
+
 Resource: https://www.youtube.com/watch?v=d56mG7DezGs&ab_channel=ProgrammingwithMosh
 
