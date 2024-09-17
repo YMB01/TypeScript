@@ -19,4 +19,3 @@
 
 There are two way  to TypeScript Assigns `explicit` and `implicit`
 **Implicit** type assignment are shorter, faster to type, and often used when developing and testing.
-
